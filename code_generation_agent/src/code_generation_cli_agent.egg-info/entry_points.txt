@@ -1,0 +1,2 @@
+[console_scripts]
+agent = code_generation_cli_agent.cli:main
